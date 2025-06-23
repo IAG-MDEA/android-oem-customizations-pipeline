@@ -71,5 +71,4 @@ Licensed under the  [GNU GPLv3](LICENSE) license.
 ## Funding support
 
 Part of this research was supported by the Spanish National Cybersecurity Institute (INCIBE) under <i>Proyectos Estratégicos de Ciberseguridad -- CIBERSEGURIDAD EINA UNIZAR</i> and by the Recovery, Transformation and Resilience Plan funds, financed by the European Union (Next Generation).
-
 ![Funding logo](misc/images/BandaLogos_INCIBE_es-100.jpg)
